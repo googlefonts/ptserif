@@ -1,0 +1,9 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+decomposeTransformedComponents: false
+sources:
+  - PT_Serif-Web-Bold.glyphs
+  - PT_Serif-Web-BoldItalic.glyphs
+  - PT_Serif-Web-Italic.glyphs
+  - PT_Serif-Web-Regular.glyphs
